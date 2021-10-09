@@ -1,4 +1,4 @@
-Python == 3.9.7
-Flask ==2.0.2
-Werkzeug ==2.0.2
-gunicorn ==21.2.3
+Python 
+Flask 
+Werkzeug 
+gunicorn 
