@@ -1,11 +1,7 @@
 @import url(fontawesome-all.min.css);
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
 
-/*
-	Stellar by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -72,7 +68,7 @@ input, select, textarea {
 	appearance: none;
 }
 
-/* Basic */
+
 
 	@-ms-viewport {
 		width: device-width;
@@ -331,7 +327,6 @@ input, select, textarea {
 		border-bottom-color: rgba(255, 255, 255, 0.35);
 	}
 
-/* Row */
 
 	.row {
 		display: flex;
@@ -1986,7 +1981,7 @@ input, select, textarea {
 				color: #ffffff !important;
 			}
 
-/* Form */
+
 
 	form {
 		margin: 0 0 2em 0;
@@ -2214,7 +2209,7 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.5) !important;
 	}
 
-/* Icon */
+
 
 	.icon {
 		text-decoration: none;
@@ -2360,7 +2355,7 @@ input, select, textarea {
 			background-color: rgba(255, 255, 255, 0.2);
 		}
 
-/* Image */
+
 
 	.image {
 		border-radius: 8px;
@@ -2414,7 +2409,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-/* List */
+
 
 	ol {
 		list-style: decimal;
@@ -2491,7 +2486,7 @@ input, select, textarea {
 		color: #ffffff;
 	}
 
-/* Actions */
+
 
 	ul.actions {
 		display: -moz-flex;
@@ -2613,7 +2608,6 @@ input, select, textarea {
 
 		}
 
-/* Icons */
 
 	ul.icons {
 		cursor: default;
@@ -2630,7 +2624,7 @@ input, select, textarea {
 				padding-right: 0 !important;
 			}
 
-/* Section/Article */
+
 
 	section.special, article.special {
 		text-align: center;
@@ -2705,7 +2699,7 @@ input, select, textarea {
 		background-color: rgba(255, 255, 255, 0.35);
 	}
 
-/* Table */
+
 
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
@@ -2792,7 +2786,6 @@ input, select, textarea {
 		border-color: rgba(255, 255, 255, 0.35);
 	}
 
-/* Features */
 
 	.features {
 		display: -moz-flex;
@@ -2859,7 +2852,6 @@ input, select, textarea {
 
 		}
 
-/* Statistics */
 
 	.statistics {
 		display: -moz-flex;
@@ -2968,7 +2960,7 @@ input, select, textarea {
 
 		}
 
-/* Spotlight */
+
 
 	.spotlight {
 		display: -moz-flex;
@@ -3069,7 +3061,7 @@ input, select, textarea {
 		border-color: rgba(255, 255, 255, 0.35);
 	}
 
-/* Header */
+
 
 	#header {
 		padding: 5em 5em 1em 5em ;
@@ -3208,7 +3200,7 @@ input, select, textarea {
 			transform: scale(0.8) rotate(-30deg);
 		}
 
-/* Nav */
+
 
 	#nav {
 		-moz-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
@@ -3331,7 +3323,6 @@ input, select, textarea {
 
 		}
 
-/* Main */
 
 	#main {
 		background-color: #ffffff;
@@ -3679,7 +3670,7 @@ input, select, textarea {
 
 		}
 
-/* Footer */
+
 
 	#footer {
 		display: -moz-flex;
@@ -3762,7 +3753,6 @@ input, select, textarea {
 
 		}
 
-/* Wrapper */
 
 	#wrapper {
 		width: 64em;
